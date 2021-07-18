@@ -1,3 +1,5 @@
-# Source of the Iris lab
+# Iris Scikit-learn Lab
 
-Main lab content is in the lab-iris-scikit-learn.ipynb notebook, with aux assets and data also included in this repo.
+Lab exploring and analysing Iris dataset using Pandas and Scikit-learn. 
+
+Instructions and guidelines for preparing labs (also, screenshots of what _this_ lab looks like in the app): https://github.com/rationalmatter/lab-guidelines/blob/main/README.md
