@@ -1,4 +1,4 @@
-# Iris Scikit-learn Lab
+# Lab Example: Iris with Scikit-learn
 
 Lab exploring and analysing Iris dataset using Pandas and Scikit-learn. 
 
